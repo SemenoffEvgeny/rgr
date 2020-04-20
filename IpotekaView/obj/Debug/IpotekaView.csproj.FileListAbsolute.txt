@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\IpotekaView\bin\Debug\IpotekaView.exe.config
+C:\Users\User\source\repos\IpotekaView\bin\Debug\IpotekaView.exe
+C:\Users\User\source\repos\IpotekaView\bin\Debug\IpotekaView.pdb
+C:\Users\User\source\repos\IpotekaView\obj\Debug\IpotekaView.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IpotekaView\obj\Debug\IpotekaView.Form1.resources
+C:\Users\User\source\repos\IpotekaView\obj\Debug\IpotekaView.Properties.Resources.resources
+C:\Users\User\source\repos\IpotekaView\obj\Debug\IpotekaView.csproj.GenerateResource.cache
+C:\Users\User\source\repos\IpotekaView\obj\Debug\IpotekaView.exe
+C:\Users\User\source\repos\IpotekaView\obj\Debug\IpotekaView.pdb
+C:\Users\User\source\repos\IpotekaView\bin\Debug\BL.dll
+C:\Users\User\source\repos\IpotekaView\bin\Debug\BL.pdb
+C:\Users\User\source\repos\IpotekaView\obj\Debug\IpotekaView.csproj.CopyComplete
